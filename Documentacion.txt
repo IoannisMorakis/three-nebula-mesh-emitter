@@ -1,4 +1,0 @@
-El codigo del mesh-emitter se encuentra en el directorio sandbox/experiment/mesh-emitter
-Se crea como un emitter normal preo el body es un mesh en vez de un sprite
-linea 56 y linea 67
-
